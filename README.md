@@ -1,1 +1,1 @@
-Here i'm posty python solution
+Here i'm posting python solution
